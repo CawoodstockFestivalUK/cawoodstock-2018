@@ -27,6 +27,11 @@ body, input, select, textarea {
 	line-height: 1.75em;
 }
 
+img,
+iframe {
+  max-width: 100%;
+}
+
 #content {
   padding: 2em;
   background: rgba(35, 31, 32, 0.5);
